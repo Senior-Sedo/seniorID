@@ -7,7 +7,8 @@
   "types": "./dist/index.d.ts",
   "homepage": "https://github.com/Senior-Sedo",
   "repository": {
-    "url": "https://github.com/Senior-Sedo/seniorID"
+    "type": "git",
+    "url": "git+https://github.com/Senior-Sedo/seniorID.git"
   },
   "publishConfig": {
     "access": "public",

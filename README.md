@@ -12,7 +12,7 @@ import seniorID from "@ssts/id";
 ```
 ## Use
 ```ts
-const id: string = seniorID();
+const randomId: string = seniorID();
 ```
 
 ## Examples
@@ -49,7 +49,11 @@ ___
 ***
 >   Made With Chocolate By Senior Sedo 😎
 >>  Be Chocolateful 💙😍
->>> Changed `@senior-sedo-typescript/rand-id` to `@ssts/id` for simplicity sake 😍
+>>
+>>  **ssts** stands for **s**enior-**s**edo-**t**ype**s**cript 💙
+>>
+>>  So instead of ~~@senior-sedo-typescript/rand-id~~
+>>> `@ssts/id` for simplicity sake 😍
 ***
 ---
 ---
