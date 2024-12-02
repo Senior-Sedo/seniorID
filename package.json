@@ -19,14 +19,37 @@
   },
   "keywords": [
     "id",
+    "v4",
+    "uuid",
+    "unique",
+    "create",
+    "generate",
     "random",
     "random-id",
-    "random-string"
+    "unique-id",
+    "create-random",
+    "generate-random",
+    "create-unique",
+    "generate-unique",
+    "create-string",
+    "generate-string",
+    "create-id",
+    "generate-id",
+    "create-random-id",
+    "generate-random-id",
+    "create-unique-string",
+    "generate-unique-string",
+    "create-unique-id",
+    "generate-unique-id"
+
   ],
   "author": "Senior Sedo",
   "license": "MIT",
   "devDependencies": {
     "tsup": "^8.1.0",
     "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@ssts/int": "^2.0.0"
   }
 }
