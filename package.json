@@ -1,7 +1,7 @@
 {
   "name": "@ssts/id",
   "description": "Create unique random string IDs",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -41,7 +41,6 @@
     "generate-unique-string",
     "create-unique-id",
     "generate-unique-id"
-
   ],
   "author": "Senior Sedo",
   "license": "MIT",
